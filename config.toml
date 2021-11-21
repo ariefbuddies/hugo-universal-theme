@@ -6,7 +6,6 @@ languageCode = "en-us"
 paginate = 10
 summaryLength = 70
 theme = "hugo-universal-theme"
-themesDir = "/"
 title = "Universal"
 [[menu.main]]
 identifier = "section.ap-contact"
