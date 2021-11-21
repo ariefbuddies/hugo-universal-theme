@@ -351,4 +351,3 @@ blog = "/blog/:year/:month/:day/:filename/"
 author = "authors"
 category = "categories"
 tag = "tags"
-© 2021 GitHub, Inc.
